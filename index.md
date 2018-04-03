@@ -49,8 +49,8 @@ Mockups for the following pages will be implemented during M1, and are from the 
 
 List Contact:
 
-<img width="200px" src="images/ListContact.png"/>
+<img width="400px" src="images/ListContact.png"/>
 
 Add Contact:
 
-<img width="200px" src="images/AddContact.png"/>
+<img width="400px" src="images/AddContact.png"/>
