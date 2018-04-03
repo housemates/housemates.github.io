@@ -11,7 +11,7 @@ Housemates is an in-progress Meteor application that provides the University of 
 
 Anyone with a U.H. account can login to Housemates by clicking on the login button. The U.H. CAS authentication screen then appears and requests your U.H. account and password. Once authenticated, you can create a profile that provides your location, preferences for your housing location, and preferences for roommates.
 
-After creating a profile, you will be listed on the public directory page. We also intend for Housemates to provide a filter page, logged in UH users. The filter page allows you to search for other UH users according to the searcher's specified criteria:
+After creating a profile, you will be listed on the public directory page. We also intend for Housemates to provide a filter page, which will allow logged in U.H. users to search for other U.H. users according to the searcher's specified criteria (criteria including location, profile descriptions, roommate preferences, etc.).
 
 # Installation
 
