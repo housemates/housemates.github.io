@@ -47,8 +47,10 @@ The goal of Milestone 1 is to create a set of HTML pages providing a mockup of t
 
 Mockups for the following pages will be implemented during M1, and are from the Digits web project:
 
-#List Contact:
+List Contact:
+
 <img width="200px" src="images/ListContact.png"/>
 
-#Add Contact:
+Add Contact:
+
 <img width="200px" src="images/AddContact.png"/>
