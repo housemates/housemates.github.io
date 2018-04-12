@@ -41,7 +41,7 @@ The following sections document the development history of Housemates, the resul
 
 ## Milestone 1: Mockup development
 
-This milestone started on April 2, 2018 and is ongoing.
+[Milestone 1](https://github.com/housemates/housemates/projects/1) was started on April 2, 2018 and was finished on April 12, 2018.
 
 The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
