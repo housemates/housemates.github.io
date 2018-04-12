@@ -7,7 +7,7 @@
 
 # About Housemates
 
-Housemates is an in-progress Meteor application that provides the University of Hawaii community with a means to collaborate on finding off-campus housing. When you come to the site, you are greeted by the landing page.
+[Housemates](https://github.com/housemates) is an in-progress Meteor application that provides the University of Hawaii community with a means to collaborate on finding off-campus housing. When you come to the site, you are greeted by the landing page.
 
 Anyone with a U.H. account can login to Housemates by clicking on the login button. The U.H. CAS authentication screen then appears and requests your U.H. account and password. Once authenticated, you can create a profile that provides your location, preferences for your housing location, and preferences for roommates.
 
