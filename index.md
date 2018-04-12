@@ -31,13 +31,13 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). If you have an account on the UH test CAS server, you can login.  
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). You may 
 
 # Development History
 
 In accordance with [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices, development for Housemates consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
-The following sections document the development history of Housemates.
+The following sections document the development history of Housemates, the results of which are [deployed on Galaxy](housemates.meteorapp.com).
 
 ## Milestone 1: Mockup development
 
@@ -45,12 +45,16 @@ This milestone started on April 2, 2018 and is ongoing.
 
 The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system. To simplify things, the mockup was developed as a Meteor app. This meant that each page was a template and that FlowRouter was used to implement routing to the pages. 
 
-Mockups for the following pages will be implemented during M1, and are from the Digits web project:
-
-Landing Page:
+When logging in to House Mates, the user is directed to the Landing Page:
 
 <img width="400px" src="images/LandingPage.JPG"/>
 
-Add Contact:
+The navigation bar at the top of the screen provides options including viewing his public profile and editing that profile:
 
-<img width="400px" src="images/AddContact.png"/>
+<img width="400px" src="images/ViewProfile.JPG"/>
+
+We intend to implement a search system so that registered users can find and get in touch with each other, 
+users will be able to add others to their "Crew" to keep track of each other's preferred locations for housing, class stadning in 
+college, and other basic information.
+
+<img width="400px" src="images/CrewView.JPG"/>
