@@ -60,7 +60,7 @@ college, and other basic information.
 <img width="400px" src="images/CrewView.JPG"/>
 
 ## Milestone 2: Beginning of New Features
-[Milestone 2](https://github.com/housemates/housemates/milestone/2) was started on April 12, 2018 and is ongoing.
+[Milestone 2](https://github.com/housemates/housemates/projects/3) was started on April 12, 2018 and is ongoing.
 
 This milestone will have us start implementing our own original features for the project, such as searching for other users and 
 adding them to the user's "Crew", which allows users to keep track of each other as potential roommates.
