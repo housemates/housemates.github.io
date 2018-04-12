@@ -4,6 +4,7 @@
 * [Installation](#installation)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: Beginning of New Features](#milestone-2-beginning-of-new-features)
 
 # About Housemates
 
