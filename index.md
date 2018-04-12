@@ -37,7 +37,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 In accordance with [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices, development for Housemates consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
-The following sections document the development history of Housemates, the results of which are [deployed on Galaxy](housemates.meteorapp.com).
+The following sections document the development history of Housemates, the results of which are [deployed on Galaxy](http://housemates.meteorapp.com).
 
 ## Milestone 1: Mockup development
 
