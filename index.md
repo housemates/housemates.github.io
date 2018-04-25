@@ -48,25 +48,25 @@ The goal of Milestone 1 is to create a set of HTML pages providing a mockup of t
 
 When logging in to House Mates, the user is directed to the Landing Page:
 
-<img width="400px" src="images/LandingPage.JPG"/>
+<img width="500px" src="images/LandingPage.JPG"/>
 
 The navigation bar at the top of the screen provides options including viewing his public profile and editing that profile:
 
-<img width="400px" src="images/ViewProfile.JPG"/>
+<img width="500px" src="images/ViewProfile.JPG"/>
 
 We intend to implement a search system so that registered users can find and get in touch with each other, 
 users will be able to add others to their "Crew" to keep track of each other's preferred locations for housing, class stadning in 
 college, and other basic information.
 
-<img width="400px" src="images/CrewView.JPG"/>
+<img width="500px" src="images/CrewView.JPG"/>
 
 ## Milestone 2: Beginning of New Features
 [Milestone 2](https://github.com/housemates/housemates/projects/3) was started on April 12, 2018 and was finished on April 24, 2018.
 
 For this milestone, we created a page that provides users with an overview and a brief tutorial on how to use House Mates:
 
-<img width="400px" src="images/Tutorial.JPG"/>
+<img width="500px" src="images/Tutorial.JPG"/>
 
 We also redesigned the user profiles and updated the "View Your Crew" option so users can remove others from their Housemates List:
 
-<img width="400px" src="images/ListHousemates.JPG/>
+<img width="500px" src="images/ListHousemates.JPG"/>
