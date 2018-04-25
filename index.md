@@ -63,10 +63,10 @@ college, and other basic information.
 ## Milestone 2: Beginning of New Features
 [Milestone 2](https://github.com/housemates/housemates/projects/3) was started on April 12, 2018 and was finished on April 24, 2018.
 
-For this milestone, we created a page that provides users with an overview and a brief tutorial on how to use House Mates:
+For this milestone, we worked on making this app more original than the digits app that House Mates was originally built off of. Our first major change was directing users to the Create Profile page immediately after submitting their credentials for a new account. They may also be informed of this process through the tutorial page we created, which provides users with an overview and a brief tutorial on how to use House Mates:
 
 <img width="500px" src="images/Tutorial.JPG"/>
 
-We also redesigned the user profiles and updated the "View Your Crew" option so users can remove others from their Housemates List:
+We also redesigned the user profiles and updated the "View Your Crew" option so users can remove others from their Housemates List.:
 
 <img width="500px" src="images/ListHousemates.JPG"/>
