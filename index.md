@@ -2,9 +2,11 @@
 
 * [About Housemates](#about-housemates)
 * [Installation](#installation)
-* [Development history](#development-history)
+* [Guided Tour](#guided-tour)
+* [Developer Guide](#developer-guide)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Beginning of New Features](#milestone-2-beginning-of-new-features)
+  * [Milestone 3: Finalize Project](#milestone-3-finalize-project)
 
 # About Housemates
 
@@ -34,7 +36,33 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). You may 
 
-# Development History
+# Guided Tour
+
+As indicated in the application's tutorial page, House Mates implements the following basic functions:
+
+## Signing In/Signing Up
+
+When users first enter the Landing Page, they get a brief overview of the features of House Mates. They can get a more detailed explanation and walkthrough with the option "How to Use House Mates", which is presented in the page's navigation bar before and after a user signs in. Users can create their own account with an email address and password, or they can sign in to an existing account. After signing up with an email and password, new users are directed to create their profile with the fields shown below:
+
+<img width="500px" src="images/CreateProfile.JPG"/>
+
+After their profile creation, the Navigation Bar presents these features in the following order: a walkthrough of the application (shown as "How to Use House Mates"), viewing and editing their profile (shown as "View Profile"), and listing and removing other users from their list of potential roommates (shown as "View Your Crew").
+
+## Viewing Profile
+
+Users may view and edit their own profile in the "View Profile" option. This page displays the following components inputted by the user: their full name, class standing, contact information (email and/or phone number), places they would like to live, a description for them to include any other information about themselves, and an option to Edit these fields.
+
+<img width="500px" src="images/ViewProfile.JPG"/>
+
+## Searching for Other Users
+
+House Mates also allows registered users to search through other registered users for potential roommates. The search system can list users that satisfy criteria entered by the user, such as the first name, last name, class standing, or preferred destinations:
+
+<img width="500px" src="images/ListHousemates.JPG"/>
+
+If a user no longer wishes to be connected to another user, they may also remove a user from their list of Housemates. This option is provided by a button in each profile on the ListHousemates page.
+
+# Developer Guide
 
 In accordance with [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices, development for Housemates consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
 
@@ -70,3 +98,12 @@ For this milestone, we worked on making this app more original than the digits a
 We also redesigned the user profiles and updated the "View Your Crew" option so users can remove others from their Housemates List.:
 
 <img width="500px" src="images/ListHousemates.JPG"/>
+
+## Milestone 3: Finalize Project
+[Milestone 3](https://github.com/housemates/housemates/projects/4) was started on April 24, 2018 and the latest update to this milestone was on May 4, 2018. The main improvement we made during this milestone was the implementation of our search/filter system, which allows users to discover other registered users. This system filters through the list of all profiles through criteria such as the user's first name, last name, standing, or other components of their profile as shown below:
+
+(Insert image here)
+
+Although we as a group have a few ideas on improving this project going forward, a few users from the community provided their own insights which are summarized below:
+
+(Probably a bulleted list of feedback, I don't think we need to give names)
