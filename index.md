@@ -98,7 +98,7 @@ For this milestone, we worked on making this app more original than the digits a
 
 We also redesigned the user profiles and updated the "View Your Crew" option so users can remove others from their Housemates List.:
 
-<img width="500px" src="images/ListHousemates.JPG"/>
+<img width="500px" src="images/Remove.JPG"/>
 
 ## Milestone 3: Finalize Project
 [Milestone 3](https://github.com/housemates/housemates/projects/4) was started on April 24, 2018 and the latest update to this milestone was on May 4, 2018. The main improvement we made during this milestone was the implementation of our search/filter system, which allows users to discover other registered users. This system filters through the list of all profiles through criteria such as the user's first name, last name, standing, or other components of their profile as shown below:
