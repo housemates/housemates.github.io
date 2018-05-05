@@ -3,6 +3,7 @@
 * [About Housemates](#about-housemates)
 * [Installation](#installation)
 * [Guided Tour](#guided-tour)
+* [Initial User Study](#initial-user-study)
 * [Developer Guide](#developer-guide)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: Beginning of New Features](#milestone-2-beginning-of-new-features)
@@ -58,6 +59,10 @@ House Mates also allows registered users to search through other registered user
 
 If a user no longer wishes to be connected to another user, they may also remove a user from their list of Housemates. This option is provided by a button in each profile on the ListHousemates page.
 
+# Initial User Study
+
+Since House Mates is a Meteor application developed for the U.H. community, we had some users test the effectiveness of the features we've implemented so far. These users recorded their responses and shared their suggested improvements in the [Google Form](https://docs.google.com/a/hawaii.edu/forms/d/1aPusFYr90cU58ccRn3DKbnXRdx_E2Gk07YhDdvZyQdg/prefill). So far, all users were satisfied with the landing page, and suggested changes such as color scheming in the tutorial page and suggested new fields for the profile creation.
+
 # Developer Guide
 
 In accordance with [Issue Driven Project Management](http://courses.ics.hawaii.edu/ics314f16/modules/project-management/) practices, development for Housemates consists of a sequence of Milestones. Milestones consist of issues corresponding to 2-3 day tasks. GitHub projects are used to manage the processing of tasks during a milestone.  
@@ -98,8 +103,6 @@ We also redesigned the user profiles and updated the "View Your Crew" option so 
 ## Milestone 3: Finalize Project
 [Milestone 3](https://github.com/housemates/housemates/projects/4) was started on April 24, 2018 and the latest update to this milestone was on May 4, 2018. The main improvement we made during this milestone was the implementation of our search/filter system, which allows users to discover other registered users. This system filters through the list of all profiles through criteria such as the user's first name, last name, standing, or other components of their profile as shown below:
 
-(Insert image here)
+<img width="500px" src="images/ViewCrew.png"/>
 
-Although we as a group have a few ideas on improving this project going forward, a few users from the community provided their own insights which are summarized below:
-
-(Probably a bulleted list of feedback, I don't think we need to give names)
+Although we as a group have a few ideas on improving this project going forward, a few users from the community provided their own insights which are summarized in the section Initial User Study above.
