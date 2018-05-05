@@ -61,7 +61,7 @@ If a user no longer wishes to be connected to another user, they may also remove
 
 # Initial User Study
 
-Since House Mates is a Meteor application developed for the U.H. community, we had some users test the effectiveness of the features we've implemented so far. These users recorded their responses and shared their suggested improvements in the [Google Form](https://docs.google.com/a/hawaii.edu/forms/d/1aPusFYr90cU58ccRn3DKbnXRdx_E2Gk07YhDdvZyQdg/prefill). So far, all users were satisfied with the landing page, and suggested changes such as color scheming in the tutorial page and suggested new fields for the profile creation.
+Since House Mates is a Meteor application developed for the U.H. community, we had some users test the effectiveness of the features we've implemented so far. These users recorded their responses and shared their suggested improvements in a [Google Form](https://docs.google.com/a/hawaii.edu/forms/d/1aPusFYr90cU58ccRn3DKbnXRdx_E2Gk07YhDdvZyQdg/prefill) which is monitored by all three developers. So far, all users were satisfied with the landing page, and suggested changes such as color scheming in the tutorial page and suggested new fields for the profile creation.
 
 # Developer Guide
 
